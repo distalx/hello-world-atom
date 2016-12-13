@@ -5,5 +5,10 @@
   "version": "0.0.1",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  }
+  },
+  "activationCommands": {
+    "atom-workspace": [
+      "hello-world:toggle"
+    ]
+  },
 }
