@@ -2,7 +2,7 @@
   "name": "hello-world",
   "description": "A Hello World Package",
   "repository": "https://github.com/distalx/hello-world-atom.git",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
