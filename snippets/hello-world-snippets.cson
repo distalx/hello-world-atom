@@ -1,0 +1,9 @@
+'.source.js':
+  'JS hello world':
+    'prefix': 'HW'
+    'body': 'console.log(${1:"Hello World !!"});$2'
+
+'.source.php':
+  'PHP hello world':
+    'prefix': 'HW'
+    'body': 'echo "Hello World!";'
