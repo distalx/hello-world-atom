@@ -1,8 +1,8 @@
 {
-  "name" : "hello-world",
-  "description" : "A Hello World Package",
-  "repository" : "https://github.com/distalx/hello-world-atom.git",
-  "version" : "0.0.0",
+  "name": "hello-world",
+  "description": "A Hello World Package",
+  "repository": "https://github.com/distalx/hello-world-atom.git",
+  "version": "0.0.1",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   }
